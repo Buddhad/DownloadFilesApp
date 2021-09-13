@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadFilesApp</string>
+    <string name="text_hint">Enter url…</string>
+    <string name="btn_text">Download</string>
+    <string name="img">BackgroundImage</string>
+    <string name="Developer">Created By Buddhadeb Chhetri ✌</string>
+</resources>

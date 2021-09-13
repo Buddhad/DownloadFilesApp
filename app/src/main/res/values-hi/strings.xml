@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">डाउनलोड फ़ाइलें ऐप</string>
+    <string name="text_hint">यू आर एल दर्ज करो…</string>
+    <string name="btn_text">डाउनलोड</string>
+    <string name="img">पृष्ठभूमि छवि</string>
+    <string name="Developer">बुद्धदेव छेत्री द्वारा बनाया गया ✌</string>
+</resources>
